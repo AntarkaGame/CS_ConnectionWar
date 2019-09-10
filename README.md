@@ -18,10 +18,6 @@ $ git clone https://github.com/AntarkaGame/CS_ConnectionWar.git c81276da-40bb-4e
 
 > ⚠️ Please be sure to keep the uuid.
 
-## Soundtracks (by Irvin Montes)
-
-- https://www.youtube.com/watch?v=R7ypSKKw1l4
-
 ## Team
 
 - [Fraxken](https://github.com/fraxken) - GENTILHOMME Thomas &lt;gentilhomme.thomas@gmail.com&gt;
